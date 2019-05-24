@@ -8,7 +8,7 @@ Trabalho apresentado no **IV Seminário Internacional de Estatística com R** na
 <img src="man/figures/poster.jpg" width="50%" height="50%"/>
 </a>
 
-### App Shiny
+### Shiny app
 ---
 
 >- Shiny: https://luizfcp.shinyapps.io/twittadas_presidenciais/
